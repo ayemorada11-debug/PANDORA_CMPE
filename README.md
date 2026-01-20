@@ -1,2 +1,7 @@
 # PANDORA_CMPE
 Short Activity 1 GitHub Collaborator
+
+Members:
+MORADA, ANDREI LIONNE P.
+ORCIO, PADLUCK S.
+ARGALLON, RJ M.
